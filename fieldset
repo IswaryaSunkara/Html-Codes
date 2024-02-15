@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>details</title>
+    <style>
+        div{
+            width: 50%;
+            margin: auto;                           
+        }
+        h1{
+            text-align: center;
+        }
+        input{
+            margin-bottom: 8px;
+        }
+        fieldset{
+            margin-bottom: 10px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1><mark>User Information</mark></h1>
+    <div>
+    <fieldset>
+        <legend>Details</legend>
+    <form action="">
+        <fieldset>
+            <legend>User Details</legend>
+            <label for="name">First Name:</label>
+            <input type="text" id="name" placeholder="name"><br>
+            <label for="name">Middle Name:</label>
+            <input type="text" id="name"><br>
+            <label for="name">Last Name:</label>
+            <input type="text" id="name"><br>
+            <label for="name">Phone Number:</label>
+            <input type="text" id="name" maxlength="10"><br>
+        </fieldset>
+     <fieldset>
+        <legend>Personal Details</legend>
+        <label for="name">Address Line1:</label>
+        <input type="text" id="name"><br>
+        <label for="name">Address Line2:</label>
+        <input type="text" id="name"><br>
+        <label for="name">Zip Code:</label>
+         <input type="text" id="name" maxlength="4"><br>
+         <label for="name">Email Id:</label>
+        <input type="email" id="name" placeholder="123@gmail.com"><br>
+        <label for="name">Aadhar Number:</label>
+        <input type="text" id="name" maxlength="12"><br>
+        <label for="name">Pan Number:</label>
+         <input type="text" id="name"><br>
+     </fieldset>
+     <fieldset>
+        <legend>Professional Details</legend>
+        <label for="name">SSC Points:</label>
+        <input type="text" id="name"><br>
+        <label for="name">Inter Marks:</label>
+            <input type="text" id="name"><br>
+            <label for="name">Btech Percentage:</label>
+            <input type="text" id="name"><br>
+            <label for="name">Technologies:</label>
+            <input type="text" id="name"><br>
+            <label for="name">Projects:</label>
+            <input type="text" id="name"><br>
+     </fieldset>
+     <button>submit</button>
+    </fieldset>
+    </form>
+</div>
+</body>
+</html>
