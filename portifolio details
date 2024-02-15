@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            margin-left: 8%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+    <h1>Personal Information:</h1>
+            <ul>
+                <li><strong>Name:</strong> S.Iswarya</li>
+                <li><strong>Email:</strong> iswaryasunkara24@gmail.com</li>
+                <li><strong>Phone:</strong> 7207367619</li>
+                <li><strong>Address:</strong> 5-52B,dharga road,medarametla,A.P,India</li>
+                <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sunkara-iswarya-389536285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">iswarya's LinkedIn</a></li>
+                <li><strong>GitHub:</strong> <a href="https://github.com/IswaryaSunkara/IswaryaSunkara">iswarya's GitHub</a></li>
+            </ul>
+    <h1>Education:</h1>
+            <ul>
+                <li><strong>University/College:</strong>Sree Vidyanikethan Engineering College</li>
+                <li><strong>Degree:</strong> Bachelor of Technology</li>
+                <li><strong>Major:</strong> Cyber Security</li>
+                <li><strong>Expected Graduation Date:</strong> May 2025</li>
+            </ul>
+            <h1>Strengths:</h1>
+            <ul>
+                <li>Patient</li>
+                <li>Collaborative</li>
+                <li> I have good problem-solving skills.</li>
+            </ul>
+            <h1>Weaknesses:</h1>
+            <ul>
+                <li>Not comfortable taking risks</li>
+                <li>Difficulty asking for help</li>
+            </ul>
+           <h1>Skills:</h1> 
+            <ul>
+                <li><strong>Technical Skills:</strong><br><br>
+                    <ul>
+                        <li>C Programming</li>
+                        <li>Java</li>
+                        <li>Python</li>
+                        <li>HTML</li>
+                    </ul>
+                </li>
+                <li><strong>Soft Skills:</strong><br><br>
+                    <ul>
+                        <li>Communication</li>
+                        <li>Teamwork</li>
+                        <li>Problem-solving</li>
+                    </ul>
+                </li>
+            </ul>
+    <h1>Projects:</h1>
+    <ul>
+        <li>
+            <strong>Key Logger Project</strong>
+            <p><strong>Description:</strong>To keeps track of and records your keystrokes as you type.</p>
+        </li>
+    </ul>
+            <ul>
+                <li>
+                    <strong>Web Development Project</strong>
+                    <p><strong>Description:</strong> Developed a responsive website using HTML, CSS, and JavaScript.</p>
+                </ul>
+    </div>
+
+</body>
+</html>
