@@ -1,0 +1,19 @@
+<html>
+    <head>
+    <title>Restaurant Menu</title>
+</head>
+<body>
+    <h1>North Indian</h1>
+    <ol>
+        <li>Naan-35</li>
+        <li>Paneer-200</li>
+        <li>Tandoori Roti-10</li>
+    </ol>
+     <h1>Chinese</h1>
+    <ol>
+        <li>Noodles-90</li>
+        <li>Spring rolls-70</li>
+        <li>Cheese chilly-200</li>
+    </ol>
+</body>
+</html>
