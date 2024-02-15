@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>movie review</title>
+    <style>
+        ul{
+            font-size: 20px;
+        }
+        p{
+            font-size: 20px;
+            margin-left: 30px;
+            margin-right: 30px;
+            text-align: justify;
+        }
+        .i{
+             position: absolute;
+        } 
+    </style>
+</head>
+<body >
+    <br><br><h1 style="background-color: rgb(99, 20, 168); text-align: center;">Kushi Review</h1><br>
+    <br> <h1><b>In Short </b></h1>
+     <ul>
+        <li>'Kushi' released in theatres on September 1,2023.</li>
+       <div class="s"> <li>Vijay Deverakonda and Samantha Ruth Prabhu play lead roles in the film.</li>
+        <li>The film is directed by Shiva Nirvana.</li></div>
+     </ul>
+     <div class="i">
+    <img align="right" src="https://static.toiimg.com/photo/100093399.cms" alt="image is not there" width="40%" height="30%"></div>
+  <br>  <h1><b>Cast:</b></h1>
+            <ul>
+                <li>Directed by	Shiva Nirvana</li>
+                <li>Produced by	
+                    Naveen Yernenih
+                    Yalamanchili Ravi Shankar</li>
+                <li>Starring	
+                    Vijay Devarakonda
+                    ,Samantha</li>
+                    <li>Cinematography	Murali G.</li>
+                    <li>Edited by	Prawin Pudi</li>
+                    <li>Music by	Hesham Abdul Wahab</li>
+            </ul><br><br>           
+    <p>Viplav (Vijay Deverakonda), who works in a government telephone exchange, is born to an atheist father, 
+        Lenin Sathya (Sachin Khedekar), and a theist mother (Saranya Ponvannan). Aradhya (Samantha Ruth Prabhu), works in the corporate sector and hails from an orthodox Brahmin 
+        family. It is love at first sight for Viplav when he bumps into Aradhya in Kashmir. He relentlessly pursues Aradhya, which is borderline stalking and harassment. 
+        But, let’s come to that later!When Aradhya is convinced about him, he gets to know about her religion and her family’s preferences. Both parents do not agree on their wedding, which pushes them to get married and live separately. After several happy months, relationship woes plague their relationship. How their 
+        religious preferences affect their relationship and how they come out of it forms the story.</p>
+        <p>Director Shiva Nirvana has created a brand for himself by doing back-to-back romantic films. ‘Kushi’ is no different from his previous ventures. The film deals with a sensitive subject, i.e., religion. The film shows the troubles that crop up between newly-married couples who have different preferences. The concept of one sacrificing for the other and who has sacrificed the most creeps in. 
+            ‘Kushi’ shows how Viplav and Aradhya fall into the same trap.The film is confusing in its messaging. In fact, it looks like Shiva Nirvana is confused about whether to show a progressive or regressive love story. In one scene, we hear Viplav calling himself a feminist, but he goes around relentlessly pursuing her without her consent. Similarly, Aradhya shows herself as a self-made woman but 
+            wants to wait for her guy to be her saviour.</p>
+        
+            <h1>Rating:3.8⭐</h1>
+        
+
+</body>
+</html>
