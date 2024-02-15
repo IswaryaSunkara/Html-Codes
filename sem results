@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade Sheet</title>
+    <style>
+        table{
+           border-collapse: collapse;
+           width: 90%;
+           margin-bottom: 50px;
+          
+        }
+        table,th,td{
+            border: 2px solid black;
+
+        }
+        tr:nth-child(even){
+            background-color: bisque;
+        }
+        tr:nth-child(odd){
+            background-color: antiquewhite;
+        }
+        th{
+            text-align: left;
+        }
+        td{
+            background-color: rgb(248, 246, 246);
+        }
+        .r1{
+            text-align: right;
+        }
+        caption{
+            margin-top: 20px;
+            margin-bottom: 25px;
+        }
+        #h::first-line{
+            color: red;
+        }
+        fieldset{
+            width: 90%;
+            padding-bottom: 20px;
+        }
+        td{
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+    
+    
+    </style>
+</head>
+<body>
+    <fieldset>
+    <table>
+        <caption>
+            <h1 id="h">SREE VIDYANIKETHAN ENGINEERING COLLEGE   <br>(AUTONOMOUS)</h1>
+            <h2>SREE SAINATH NAGAR, A.RANGAMPET-5178102,ANDHRA PRADESH, INDIA</h2>
+            <h4>AFFLIATED TO JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY ANANTAPUR <br>
+            ANANTHAPURAMU-515002, ANDHRA PRADESH, INDIA.</h4><hr>
+            <b><u>GRADE SHEET</u></b>
+        </caption>
+        <tr>
+            <th>
+                EXAMINATION
+            </th>
+            <td>II B.Tech II Sem Regular</td>
+            <th>Hall Ticket No:</th>
+            <td>21121A3751</td>
+        </tr>
+        <tr>
+            <th>BRANCH</th>
+            <td>CYBER SECURITY</td>
+            <th>MONTH & YEAR OF EXAM</th>
+            <td>June 2023</td>
+        </tr>
+        <tr>
+            <th>NAME OF THE STUDENT</th>
+            <td>SUNKARA ISWARYA</td>
+            <th>SL.No.G.S.:</th>
+            <td>107880</td>
+        </tr>
+        <tr>
+            <th>NAME OF PARENT</th>
+            <td>SUNKARA SRINIVASARAO</td>
+        </tr>
+    </table><br>
+     <table>
+        <tr>
+            <th>
+                Sl.No
+            </th>
+            <th>SUBJECT CODE</th>
+            <th>SUBJECT NAME</th>
+            <th>INTERNAL <br>MARKS</th>
+            <th>EXTERNAL <br>MARKS</th>
+            <th>TOTAL <br>MARKS</th>
+            <th>GRADE <br>POINT</th>
+            <th>LETTER <br>GRADE</th>
+            <th>CREDITS</th>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>20BT31201</td>
+            <td>SOFTWARE ENGINEERING</td>
+            <td>30</td>
+            <td>67</td>
+            <td>97</td>
+            <td>10</td>
+            <td>A+</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>20BT50501</td>
+            <td>DATABASE MANAGEMENT SYSTEMS</td>
+            <td>29</td>
+            <td>68</td>
+            <td>97</td>
+            <td>10</td>
+            <td>A+</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>20BT40531</td>
+            <td>DATABASE MANAGEMENT SYSTEMS LAB</td>
+            <td>30</td>
+            <td>57</td>
+            <td>87</td>
+            <td>9</td>
+            <td>A</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <td>20BT3HS31</td>
+            <td>SOFT SKILLS LAB</td>
+            <td>29</td>
+            <td>56</td>
+            <td>85</td>
+            <td>9</td>
+            <td>A</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>5.</td>
+            <td>20BT51204</td>
+            <td>LINUX PROGRAMMING</td>
+            <td>30</td>
+            <td>69</td>
+            <td>99</td>
+            <td>10</td>
+            <td>A+</td>
+            <td>1.5</td>
+        </tr>
+        <tr>
+            <td>6.</td>
+            <td>20BT43701</td>
+            <td>CYBER SECURITY ESSENTIALS</td>
+            <td>30</td>
+            <td>57</td>
+            <td>87</td>
+            <td>9</td>
+            <td>A</td>
+            <td>1.5</td>
+        </tr>
+        <tr>
+            <td>7.</td>
+            <td>20BT43731</td>
+            <td>CYBER SECURITY ESSENTIALS LAB</td>
+            <td>30</td>
+            <td>70</td>
+            <td>100</td>
+            <td>10</td>
+            <td>A+</td>
+            <td>1.5</td>
+        </tr>
+        <tr>
+            <td>8.</td>
+            <td>20BT43732</td>
+            <td>LINUX TROUBLESHOOTING AND DIAGNOSTICS LAB</td>
+            <td>27</td>
+            <td>66</td>
+            <td>93</td>
+            <td>10</td>
+            <td>A+</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>9.</td>
+            <td>20BT4NS01</td>
+            <td>NCC/NSS ACTIVITIES**</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>P</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>10.</td>
+            <td>20BT3MC01</td>
+            <td>ENVIRONMENTAL SCIENCE*</td>
+            <td>29</td>
+            <td>-</td>
+            <td>29</td>
+            <td>-</td>
+            <td>P</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>11.</td>
+            <td>20BT4OE09</td>
+            <td>LIFE SKILLS</td>
+            <td>-</td>
+            <td>95</td>
+            <td>95</td>
+            <td>10</td>
+            <td>A+</td>
+            <td>3</td>
+        </tr>
+        <tr  >
+            <td colspan="3"class="r1">TOTAL</td>
+            <td class="r2">253</td>
+            <td class="r2">531</td>
+            <td class="r2">784</td>
+            <td > </td>
+            <td> </td>
+            <td>21.5</td>
+        </tr>
+
+     </table>
+     <h1>SGPA:9.0</h1>
+     <h1>CGPA:9.12</h1>
+    </fieldset>
+</body>
+</html>
