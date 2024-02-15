@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>unordered list</title>
+</head>
+<body>
+    <h1>Bill Gates</h1>
+    <p>Co-chair,Bill & Melinda Gates Foundation</p>
+    <p>Geater Seattle Area</p>
+    <ul type="square">
+        <li>current:Bill Gates Foundation,Microsoft</li>
+        <li>Education:Harvard University</li>
+    </ul>
+</body>
+</html>
